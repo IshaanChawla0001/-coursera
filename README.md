@@ -1,1 +1,1 @@
-# -coursera
+# Demo site
